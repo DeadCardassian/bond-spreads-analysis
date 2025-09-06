@@ -25,7 +25,7 @@
 # Bond Spread Analysis among Chinese Policy Banks and MOF
 
 This project studies yield spreads between bonds of the **Ministry of Finance (MOF)**, **Agricultural Development Bank of China (ADBC)**, **China Development Bank (CDB)**, and the **Export-Import Bank of China (EXIM Bank)**, focusing on 10-year and 30-year maturities.  
-The dataset comes from *spread_analysis_2y_final.csv*, which contains bond time-series data from 2024 to mid-2025.
+The dataset comes from *利差分析四大行2年_final.csv* (spread_analysis_2y_final), which contains bond time-series data from 2024 to mid-2025.
 
 ---
 
